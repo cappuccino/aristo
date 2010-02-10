@@ -18,11 +18,18 @@ You can find out more about Aristo by visiting [http://cappuccino.org/aristo](ht
 Examples
 --------
 
-![Aristo Buttons](raw/master/Examples/Aristo-Buttons.gif)
-![Aristo Check Boxes](raw/master/Examples/Aristo-Check-Boxes.gif)
-![Aristo Menus](raw/master/Examples/Aristo-Menus.gif)
-![Aristo Horizontal Scrollbars](raw/master/Examples/Aristo-Horizontal-Scrollbars.gif)
-![Aristo Pop Up Buttons](raw/master/Examples/Aristo-Pop-Up-Buttons.gif)
-![Aristo Radios](raw/master/Examples/Aristo-Radios.gif)
-![Aristo Segmented Controls](raw/master/Examples/Aristo-Segmented-Controls.gif)
-![Aristo Sliders](raw/master/Examples/Aristo-Sliders.gif)
+![Aristo Header](raw/master/Examples/Aristo-Buttons.gif)
+
+![Aristo Header](raw/master/Examples/Aristo-Check-Boxes.gif)
+
+![Aristo Header](raw/master/Examples/Aristo-Menus.gif)
+
+![Aristo Header](raw/master/Examples/Aristo-Horizontal-Scrollbars.gif)
+
+![Aristo Header](raw/master/Examples/Aristo-Pop-Up-Buttons.gif)
+
+![Aristo Header](raw/master/Examples/Aristo-Radios.gif)
+
+![Aristo Header](raw/master/Examples/Aristo-Segmented-Controls.gif)
+
+![Aristo Header](raw/master/Examples/Aristo-Sliders.gif)
