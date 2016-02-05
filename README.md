@@ -1,35 +1,11 @@
-![Aristo Header](http://cappuccino.org/aristo/Examples/Aristo-Header.png)
+![Aristo 2 UI Kit](https://cloud.githubusercontent.com/assets/154423/12844456/37041424-cbf7-11e5-9c08-983e3b6756a9.jpg)
 
-Introduction
-------------
-
-Aristo is an open source UI distributed as part of the [Cappuccino Web Application Framework](http://cappuccino.org)
+Aristo is an open source UI distributed as part of the [Cappuccino Web Application Framework](http://cappuccino-project.org)
 and specifically designed for the cross platform challenges applications face today.
-It is a collaborative effort by [280 North, Inc.](http://280north.com/) and [Sofa](http://www.madebysofa.com/)
-and released under the Creative Commons Attribution Share-Alike License.
 
-You can view this license here: [http://creativecommons.org/licenses/by-sa/3.0/us/](http://creativecommons.org/licenses/by-sa/3.0/us/)
+It began as a collaborative effort by [280 North, Inc.](http://280north.com/) and [Sofa](http://www.madebysofa.com/)
+and was released under the Creative Commons Attribution Share-Alike License. Today it is maintained by the Cappuccino Project.
 
-You can find out more about Aristo by visiting [http://cappuccino.org/aristo](http://cappuccino.org/aristo).
+You can reaf the license here: [http://creativecommons.org/licenses/by-sa/3.0/us/](http://creativecommons.org/licenses/by-sa/3.0/us/).
 
-* 280 North, Inc., [280north.com](http://280north.com)
-* Sofa, [madebysofa.com](http://madebysofa.com/)
-
-Examples
---------
-
-![Aristo Header](http://cappuccino.org/aristo/Examples/Aristo-Buttons.png)
-
-![Aristo Header](http://cappuccino.org/aristo/Examples/Aristo-Check-Boxes.png)
-
-![Aristo Header](http://cappuccino.org/aristo/Examples/Aristo-Menus.png)
-
-![Aristo Header](http://cappuccino.org/aristo/Examples/Aristo-Horizontal-Scrollbars.png)
-
-![Aristo Header](http://cappuccino.org/aristo/Examples/Aristo-Pop-Up-Buttons.png)
-
-![Aristo Header](http://cappuccino.org/aristo/Examples/Aristo-Radios.png)
-
-![Aristo Header](http://cappuccino.org/aristo/Examples/Aristo-Segmented-Controls.png)
-
-![Aristo Header](http://cappuccino.org/aristo/Examples/Aristo-Sliders.png)
+You can find out more about Aristo by visiting [http://cappuccino.org/aristo](http://cappuccino-project.org/aristo).
